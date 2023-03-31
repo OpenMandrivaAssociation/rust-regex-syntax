@@ -5,7 +5,7 @@
 
 Name:           rust-%{crate}
 Version:        0.6.23
-Release:        1
+Release:        2
 Summary:        Regular expression parser
 
 # Upstream license specification: MIT/Apache-2.0
